@@ -1,13 +1,13 @@
 <?php
-namespace Sharoff\Mango\Api\Base;
+namespace moroq\Mango\Api\Base;
 
 use Carbon\Carbon;
-use Sharoff\Mango\Api\MangoOfficeError;
+use moroq\Mango\Api\MangoOfficeError;
 use Symfony\Component\HttpFoundation\Request;
 
 /**
  * Class MangoOffice
- * @package Sharoff\Mango\Api\Base
+ * @package moroq\Mango\Api\Base
  */
 Class MangoOffice {
 
