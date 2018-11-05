@@ -1,9 +1,9 @@
 {
-  "name": "sharoff/mango-office-api",
+  "name": "moroq/mango-office-api",
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Sharoff\\Mango\\Api\\": "src/Section/"
+      "moroq\\Mango\\Api\\": "src/Section/"
     }
   },
   "description": "Библиотека для работы с API mango-office",
