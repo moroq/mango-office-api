@@ -177,6 +177,16 @@ Class MangoOffice {
         return $this->putCmd('commands/callback', $data, $command_id);
     }
 
+    function sendSms($from, $to_number, $message, $number = null, $command_id =null) {
+        $data = [
+            'from_extension' => $from,
+            'text' => $message,
+            'to_number' => $to_number,
+            'sms_sender' => ''
+        ];
+        return $this->putCmd('commands/sms', $data, $command_id);
+    }
+    
     /**
      * Функция отправки команды на сервер манго-офиса
      *
