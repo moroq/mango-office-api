@@ -1,6 +1,6 @@
 <?php
 
-namespace moroq\Mango\Api\Base;
+namespace Moroq\Mango\Api\Base;
 
 Class MangoResponse {
 
