@@ -1,5 +1,5 @@
 <?php
-namespace moroq\Mango\Api\Base;
+namespace Moroq\Mango\Api\Base;
 
 use Carbon\Carbon;
 
@@ -16,7 +16,7 @@ use Carbon\Carbon;
  * @property string $disconnect_reason
  * @property string $entry_id
  *
- * @package moroq\Mango\Api\Base
+ * @package Moroq\Mango\Api\Base
  */
 Class MangoOfficeStat {
 
