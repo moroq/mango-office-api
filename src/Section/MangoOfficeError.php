@@ -1,6 +1,6 @@
 <?php
-namespace moroq\Mango\Api;
+namespace Moroq\Mango\Api;
 
-Class MangoOfficeError extends \moroq\Mango\Api\Base\MangoOfficeError {
+Class MangoOfficeError extends \Moroq\Mango\Api\Base\MangoOfficeError {
 
 }
