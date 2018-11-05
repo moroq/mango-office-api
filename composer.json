@@ -1,6 +1,7 @@
 {
   "name": "moroq/mango-office-api",
   "type": "library",
+  "version": "0.0.2",
   "autoload": {
     "psr-4": {
       "Moroq\\Mango\\Api\\": "src/Section/"
