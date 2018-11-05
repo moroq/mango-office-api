@@ -1,6 +1,6 @@
 <?php
-namespace moroq\Mango\Api;
+namespace Moroq\Mango\Api;
 
-Class MangoHelper extends \moroq\Mango\Api\Base\MangoHelper {
+Class MangoHelper extends \Moroq\Mango\Api\Base\MangoHelper {
 
 }
