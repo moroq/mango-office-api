@@ -1,7 +1,7 @@
 <?php
-namespace Sharoff\Mango\Api\Base;
+namespace moroq\Mango\Api\Base;
 
-use Sharoff\Mango\Api\MangoResponse;
+use moroq\Mango\Api\MangoResponse;
 
 Class MangoOfficeError {
 
