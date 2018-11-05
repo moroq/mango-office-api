@@ -1,7 +1,7 @@
 <?php
-namespace moroq\Mango\Api\Base;
+namespace Moroq\Mango\Api\Base;
 
-use moroq\Mango\Api\MangoOffice;
+use Moroq\Mango\Api\MangoOffice;
 
 /**
  *
@@ -15,7 +15,7 @@ use moroq\Mango\Api\MangoOffice;
  * @method static MangoOffice sendCallHangup($command_id, $call_id)
  * @method static MangoOffice getStat($date_from, $date_to, $from = 0, $from_number = null, $to = null, $to_number = null, $fields = null, $request_id = null)
  *
- * @package moroq\Mango\Api\Base
+ * @package Moroq\Mango\Api\Base
  */
 Class MangoHelper {
 
