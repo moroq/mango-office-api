@@ -1,6 +1,6 @@
 <?php
-namespace Sharoff\Mango\Api;
+namespace moroq\Mango\Api;
 
-Class MangoHelper extends \Sharoff\Mango\Api\Base\MangoHelper {
+Class MangoHelper extends \moroq\Mango\Api\Base\MangoHelper {
 
 }
