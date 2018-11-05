@@ -3,7 +3,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "moroq\\Mango\\Api\\": "src/Section/"
+      "Moroq\\Mango\\Api\\": "src/Section/"
     }
   },
   "description": "Библиотека для работы с API mango-office",
