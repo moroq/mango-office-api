@@ -1,6 +1,6 @@
 <?php
-namespace Sharoff\Mango\Api;
+namespace moroq\Mango\Api;
 
-Class MangoResponse extends \Sharoff\Mango\Api\Base\MangoResponse {
+Class MangoResponse extends \moroq\Mango\Api\Base\MangoResponse {
 
 }
